@@ -29,8 +29,6 @@ Please ensure that you have accessibility to the following:
 - lvm
 
 
-
-
 ### Attributes
 
 All attributes have sane default values (See `attributes/default.rb`). You can install any supported component in this cookbook, without overriding any attributes. In case you need to override an attribute(s), use either a role or a wrapper cookbook. See examples in the examples section.
